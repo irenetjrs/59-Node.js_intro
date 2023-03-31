@@ -10,5 +10,15 @@
 {
    "name": "Nikola",
    "age": 17
-}
+},
+[
+   {
+   "name": "Anna",
+   "age": 24
+   },
+   {
+   "name": "Tom",
+   "age": 52
+   }
+]
 ]
